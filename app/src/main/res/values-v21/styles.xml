@@ -1,0 +1,25 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <!--  <style name="AppTheme.toolBar2" parent="AppTheme.BaseTranslucentStatus">
+        <item name="android:windowContentTransitions">true</item>
+
+        <item name="android:windowSharedElementEnterTransition">@transition/shared_element</item>
+    </style>
+
+    <style name="ActionButtonStyle" parent="ActionButtonStyleBase">
+        <item name="android:transitionName">@string/transition_fab</item>
+        <item name="android:elevation">8dp</item>
+    </style>
+
+    <style name="SeekBarStyle" parent="SeekBarStyleBase">
+        <item name="android:elevation">@dimen/cardview_default_elevation</item>
+    </style>-->
+
+</resources>
